@@ -1,0 +1,2 @@
+bob,$2b$12$uMee4cSTGI7DfzPnwdSSceSC9pKtssep9DhVE25PWz/nhLl8neXFa
+alice,$2b$12$9Cuu0gtVlFQxI1DcOb.bSuO6J9tWY9o4OoLn4fZWZVcXBvyT..iQu
